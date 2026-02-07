@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:2b1055&height=260&section=header&text=UNDER+MAINTENANCE&fontColor=ffffff&fontSize=60"/> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=E0C3FC&center=true&vCenter=true&width=500&lines=Under+the+same+stars+I+code;Computer+Science+Student;Frontend+Developer;Dreaming+in+JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=E0C3FC&center=true&vCenter=true&width=500&lines=Pending+edit;Computer+Science+Student" />
 </p>
 
 <p align="center">
@@ -34,13 +34,13 @@
 
 ### 🌌 my orbit
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -54,10 +54,10 @@
   ✨ ⭐ 🌟 💫 🪐
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=flat-square"/>
-</p>
+</p> -->
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:0d1117&height=140&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:0d1117&height=140&section=footer"/> -->
