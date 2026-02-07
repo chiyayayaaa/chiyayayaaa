@@ -1,6 +1,6 @@
 <!-- 🌌 CELESTIAL GITHUB PROFILE 🌌 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:2b1055&height=260&section=header&text=Queen&fontColor=ffffff&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:2b1055&height=260&section=header&text=UNDER+MAINTENANCE&fontColor=ffffff&fontSize=60"/> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=E0C3FC&center=true&vCenter=true&width=500&lines=Under+the+same+stars+I+code;Computer+Science+Student;Frontend+Developer;Dreaming+in+JavaScript" />
