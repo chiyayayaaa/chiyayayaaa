@@ -2,17 +2,15 @@
 <p align="center">
   🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:2b1055&height=260&section=header&text=UNDER+MAINTENANCE&fontColor=ffffff&fontSize=60"/> 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:2b1055&height=260&section=header&text=plan.+construct.+deploy&fontColor=ffffff&fontSize=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=E0C3FC&center=true&vCenter=true&width=500&lines=Pending+edit;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=E0C3FC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Under+Development" />
 </p>
 
 <p align="center">
   ✨ · · · ✦ · · · 🪐 · · · ✦ · · · ✨
 </p>
-
----
 
 ### 🪐 about me
 
@@ -57,17 +55,8 @@
 
 ---
 
-### 🌌 my yearly orbit
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true" />
-</p>
----
-
-### 🌌 my orbit
-
-<p align="center">
-  ✨ if you like my work, you can support my orbit ☕  
+  <b>✨ if you like my work, please support me here ☕</b>
 </p>
 
 <p align="center">
@@ -76,10 +65,6 @@
   </a>
 </p>
 
----
-
-
-
 <p align="center">
   ✨ ⭐ 🌟 💫 🪐
 </p>
@@ -87,7 +72,5 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet&style=flat-square"/>
 </p> -->
-
----
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:0d1117&height=140&section=footer"/> -->
